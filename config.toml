@@ -1,4 +1,4 @@
-baseURL      = "https://www.example.com/"
+baseURL      = "https://www.thomaspshaun.com/"
 title        = "Gallery Deluxe"
 disableKinds = ["section", "taxonomy", "term"]
 
@@ -66,4 +66,4 @@ disableKinds = ["section", "taxonomy", "term"]
         source = "static"
         target = "static"
     [[module.imports]]
-        path = "github.com/bep/gallerydeluxe"
+        path = "github.com/thomaspshaun/hugogallerydeluxe"
